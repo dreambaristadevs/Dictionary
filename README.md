@@ -29,4 +29,5 @@ Contributing is very simple:
 - Add a new definition or improve a current definition
 - Wait for approval
 - Done :)
-  
+
+  You can learn how you can contribue [here](<https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
