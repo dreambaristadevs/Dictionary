@@ -1,5 +1,5 @@
 # Shortcuts
-Will be added soon.
+[A](https://github.com/dreamcafedevs/Dictionary/blob/main/list.md#a), [B](https://github.com/dreamcafedevs/Dictionary/blob/main/list.md#b), [C](https://github.com/dreamcafedevs/Dictionary/blob/main/list.md#c)
 
 # A
 - Autosuggestion
