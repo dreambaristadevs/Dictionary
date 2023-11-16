@@ -30,4 +30,5 @@ Contributing is very simple:
 - Wait for approval
 - Done :)
 
-  You can learn how you can contribue [here](<https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
+You can learn how you can contribue [here](<https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
+The link to the public branch can be found [here](<https://github.com/dreamcafedevs/Dictionary/tree/public>)
