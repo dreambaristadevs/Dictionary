@@ -8,8 +8,11 @@
 # B
 
 # C
+- Dream
+- Dream Café
 
 # D
+- Dream-Initiated Lucid Dream (DILD)
 
 # E 
 
@@ -26,6 +29,7 @@
 # K
 
 # L
+- Lucid Dream Initiative (LDI)
 
 # M 
 
@@ -52,6 +56,7 @@
 
 # W
 - Wake Back to Bed
+- Wake Initiated Lucid Dream (WILD)
 
 # X
 
